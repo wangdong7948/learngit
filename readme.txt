@@ -6,6 +6,6 @@ git commit -m "add a few words"
 
 // git remote add origin git@github.com:wangdong7948/learngit.git
  
-git push -u origin master
+git push origin master
  
 
